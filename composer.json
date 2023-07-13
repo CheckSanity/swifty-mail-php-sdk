@@ -1,5 +1,5 @@
 {
-  "name": "sanity/swifty-mail-sdk",
+  "name": "checksanity/swifty-mail-sdk",
   "description": "Sanity.Swifty - Email service sender SDK",
   "type": "library",
   "license": "MIT",
